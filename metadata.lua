@@ -15,7 +15,7 @@ return PlaceObj('ModDef', {
 			'id', "FIZZLE1",
 			'title', "Fizzle Fuze's Library",
 			'version_major', 1,
-			'version_minor', 7,
+			'version_minor', 8,
 		}),
 	},
 	'id', "FFTemplateMod",
